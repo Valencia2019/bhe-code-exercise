@@ -1,0 +1,12 @@
+{
+  "name": "sieve",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/api/server.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
